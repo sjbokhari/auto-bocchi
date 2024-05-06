@@ -3,4 +3,4 @@ openai==1.25.2
 python-dotenv==1.0.1
 redis==5.0.4
 requests==2.31.0
-requests-oauthlib==1.4.0
+requests-oauthlib==2.0.0
